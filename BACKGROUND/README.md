@@ -40,10 +40,13 @@ You should get an open cube that looks like this:
 ### Add an Image
 
 - Tab or click on Object Mode
-- Click on Material Icon in bottom right corner
-- Click on yellow button (Material Color)
-- Choose Image texture (second column)
-- Click on icon that looks like a file cabinet and choose the image you want to use as a texture
+- Click on the Material Icon in bottom right corner (the red circle at very bottom)
+
+![material](assets/material.png)
+
+- Click on the yellow button next to Base Color (Material Color)
+- Choose Image texture - you will find it in the middle of the second column
+- Click on icon that looks like a white file cabinet and choose the image you want to use as a texture
 
 You won't see your image yet. You need to swtich to viewport shading by clicking on the icon in upper right corner. You will then see your image applied to the cube. The problem is that the image was applied like we want it to be applied.
 
