@@ -16,9 +16,7 @@ Tip - if you hit the blue circle, the view will change and the face pointing in 
 
 - Select the face by clicking on it (the border will be white)
 
-<img class="img" src="assets/delete-Z.png" alt="Deleting the positive Z face" style=" display: block;
-    margin-left: auto;
-    margin-right: auto;" width="450" height="450">
+![delete-positive-z-face](BACKGROUND/assets/delete-Z.png)
 
 - Right click, and then choose Delete Faces
 
