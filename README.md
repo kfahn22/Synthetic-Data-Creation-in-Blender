@@ -40,12 +40,10 @@ Tip - if you hit the blue circle, the view will change and the face pointing in 
 * Choose Image texture (second column)
 * Click on icon that looks like a file cabinet and choose the image you want to use as a texture
 
-You won't see your image yet.  You need to swtich to veiwport shading by clicking on the icon in upper right corner
+You won't see your image yet.  You need to swtich to viewport shading by clicking on the icon in upper right corner
 
-It was a little tricky getting the image to project the correct way onto the cube.
-
-I created a p5.js sketch to use as a template
-[Background template](https://editor.p5js.org/kfahn/sketches/qjBEbk-my)
+It was a little tricky getting the image(s) to project the correct way into the cube, so I created a p5.js sketch to use as a template
+[Background template](https://editor.p5js.org/kfahn/sketches/qjBEbk-my).
 
 5. 
 * 
