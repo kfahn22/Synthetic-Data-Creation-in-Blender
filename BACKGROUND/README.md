@@ -16,7 +16,7 @@ Tip - if you hit the blue circle, the view will change and the face pointing in 
 
 - Select the face by clicking on it (the border will be white)
 
-![delete-z-face](assets/delete-Z.png)
+![](assets/delete-Z.png)
 
 - Right click, and then choose Delete Faces
 
